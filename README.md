@@ -8,7 +8,7 @@ A **modern, luxury-grade salon booking website** built with cutting-edge web tec
 
 ## 🚀 Live Demo
 
-👉 *(Add your deployed link here)*
+👉 https://nexus-barber-lounge.vercel.app/
 
 ---
 
